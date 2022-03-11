@@ -1,0 +1,28 @@
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: black;
+    font-weight:bold;
+}
+
+h1 {
+    font-style: 16px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+}
+
+select {
+    box-shadow: none;
+    border-color: black;
+}
